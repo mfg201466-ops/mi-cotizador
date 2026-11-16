@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Resultados de PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Datos generados por la app (historial personal)
+historial.txt
+
+# Configuración local de Claude Code
+.claude/settings.local.json
